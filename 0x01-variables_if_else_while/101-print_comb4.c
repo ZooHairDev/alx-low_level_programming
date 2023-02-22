@@ -1,33 +1,33 @@
 #include <stdio.h>
 
 /**
- * main - Function
- *
- * Return: Always 0.
+ *main - print all combinations of three different digits
+ *Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	int d1, d2, d3
+	int one;
+	int ten;
+	int hundred;
 
-	for (d1 = 0; d1 < 8; d1++)
+	for (hundred = '0'; hundred <= '9'; hundred++) /*hundreds place*/
 	{
-		for (d2 = d1 + 1; d2 < 9; d2++)
+		for (ten = (hundred + 1); ten <= '9'; ten++) /*tens=100s+1*/
 		{
-			for (d3 = d2 + 1; d3 < 10; d3++)
+			for (one = (ten + 1); one <= '9'; one++) /*ones*/
 			{
-				putchar((d1 % 10) + '0');
-				putchar((d2 % 10) + '0');
-				putchar((d3 % 10) + '0');
-
-				if (d1 == 7 && d2 == 8 && d3 == 9)
-					continue;
-
-				putchar(',');
-				putchar(' ');
+				putchar(hundred);
+				putchar(ten);
+				putchar(one);
+				if (hundred != '7' || ten != '8' || one != '9')
+				{
+					putchar(',');
+					putchar(' ');
+				}
 			}
 		}
 	}
-
 	putchar('\n');
 
 	return (0);
