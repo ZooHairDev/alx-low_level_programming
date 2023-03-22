@@ -1,0 +1,209 @@
+[33mcommit 5e6c9013e922e05db0f1ab344d446a084bcf681a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ZooHairDev <zouhair.ob@gmail.com>
+Date:   Mon Mar 13 11:37:33 2023 +0000
+
+    0x0B-malloc_free
+
+[33mcommit cddc28f94e89c1a76b22ec6929c9d8238ee8c1c5[m
+Author: ZooHairDev <zouhair.ob@gmail.com>
+Date:   Mon Mar 13 11:34:02 2023 +0000
+
+    0x0B-malloc_free
+
+[33mcommit 93a54adef5dceac781db7dabcccdc8a77dd6a6f9[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Mar 7 19:32:25 2023 +0100
+
+    0x07-pointers_arrays_strings
+
+[33mcommit be26e42ccf237983dc93e5b102c994ef4dd2561b[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Mar 7 19:27:04 2023 +0100
+
+    0x07-pointers_arrays_strings
+
+[33mcommit 8f2973df4a32dbbf162fa56ce3a850f2121f1647[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Fri Mar 3 21:55:38 2023 +0100
+
+    0x04-more_functions_nested_loops
+
+[33mcommit 34f00e57b12b62999b594a50f8c254e8a2618870[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Fri Mar 3 21:34:20 2023 +0100
+
+    0x06-pointers_arrays_strings
+
+[33mcommit 6480fc9f616df0dcfcfaef647e17c575eb8592f2[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Fri Mar 3 21:29:40 2023 +0100
+
+    0x06-pointers_arrays_strings
+
+[33mcommit e0682654193215e1f5967f62b63ae8ddf616b1fe[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Fri Mar 3 21:27:02 2023 +0100
+
+    0x06-pointers_arrays_strings
+
+[33mcommit 7edc58d773e0f49876f4cc01ef5f1c04d2e1f18f[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Fri Mar 3 21:16:39 2023 +0100
+
+    0x06-pointers_arrays_strings
+
+[33mcommit 792f2225a58ab8649b1c77c2ba379bfe488cb5a7[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:45:07 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 9667d896f456af3d465f1c639c9b457f0dfb56cf[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:41:54 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 2eff17f32678da09d2a31e073a83c861bd96f27e[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:32:13 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit b3f4113d641cfe71ca4ba746c06361e98f4ab83d[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:30:34 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 8d1a4d86a016c7d3ec1ad4ba1032b8308d731123[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:27:03 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 9b565d3509de34fac91f9c85c26749444d9f90f1[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:24:43 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 96e5db5e93ac0598e491ed30023a8c434d099f9a[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 28 00:18:28 2023 +0100
+
+    0x05-pointers_arrays_strings
+
+[33mcommit 2604b0b58bb9e548c3262301e0910ae69a903eed[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:38:03 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit 6f217db108d5a3005a658421bb33cca75e3c7c4f[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:37:06 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit ff9120069641e092b48d0ab39e0cea174af0f405[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:34:04 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit d5ba2d78d2aca284da39af3a93a3798da83de72f[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:28:17 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit ebd2e4c654905755a9aab2b5f1ac5e0a1df5c0d9[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:27:15 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit a3850c6c037f3d66fa6db4f1d3e6912f02d8afd1[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:25:21 2023 +0100
+
+    0x01-variables_if_else_while
+
+[33mcommit dd19f8a5f17f7b1ce74e85981533823b89985b17[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Wed Feb 22 22:03:44 2023 +0100
+
+    0x03-debugging
+
+[33mcommit 10e86f2947df2b62ec97c4da8f5b4ebcc6a2ba48[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:21:15 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit d7ca43be2b4031c1de8d809ae6bfa12507581dd6[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:18:29 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit 656f43a110acc3c22dc618c37e8efe3a4a77f739[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:13:54 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit 6bc128147ef902f034218a90b21a7602f898bf7c[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:10:18 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit 031dc8c4055344c4b7ba887082a3ecf2b12c4573[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:07:21 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit fb90c51e85e6e2a0ff5bfad27c44e6ffeb14fd99[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Tue Feb 21 21:05:32 2023 +0100
+
+    0x02-functions_nested_loops
+
+[33mcommit 9dd78edd16aaa0b1047671817baa59106af2567a[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 19:41:17 2023 +0100
+
+    0x00-hello_world
+
+[33mcommit 2232d067792943ad33dc4995fea738301e821dfe[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 19:40:07 2023 +0100
+
+    0x00-hello_world
+
+[33mcommit eb888b3b44c39ec1e445afa63c09df2e77d542ef[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 19:39:04 2023 +0100
+
+    0x00-hello_world
+
+[33mcommit 93e15292fc5a81a9267d28bfb1ae148c1744db74[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 18:59:48 2023 +0100
+
+    0x00-hello_world
+
+[33mcommit 5e41232acf5f1935d9cecd45253aea18d6b4b535[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 18:57:16 2023 +0100
+
+    0x00-hello_world
+
+[33mcommit f9bbefea18061b0618bfc40a7f727439ba59fab5[m
+Author: ZooHairDev <zouhai.ob@gmail.com>
+Date:   Thu Feb 16 18:51:40 2023 +0100
+
+    0x00-hello_world
