@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/ZooHairDev/alx-low_level_programming/raw/master/0x18-dynamic_libraries/putshack.so
-export LD_PRELOAD=/tmp/putshack.so
+wget -P .. https://raw.githubusercontent.com/ZooHairDev/alx-low_level_programming/main/0x18-dynamic_libraries/randnum.so
+export LD_PRELOAD="$PWD/../randnum.so"
